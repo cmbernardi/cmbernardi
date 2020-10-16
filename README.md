@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there! :relaxed: 👋
+I'm a Brazilian :brazil: living in the Netherlands :netherlands: who is passionate about Science and Technology.  
+:woman_technologist: Currently fully involved in Data Science!  
+:book: I also like writing technical blogs!  
 
-<!--
-**cmbernardi/cmbernardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### How it has been my learning path :arrow_down:
+:dna: Biotechnology --> :microscope:Bioengineering --> :bar_chart: Data Science  
 
-Here are some ideas to get you started:
+#### My previous work experience :arrow_down:
+Most of my days were spent creating real-world data from biologic samples, designing experiments, testing hypotheses, analyzing data, reading, and writing technical content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### How to connect with me :arrow_down:
+:star: [Medium](https://medium.com/@cmbernardi)  
+:star: [Twitter](https://twitter.com/cmbernardi_)  
+:star: [LinkedIn](https://www.linkedin.com/in/camila-bernardi/) 
