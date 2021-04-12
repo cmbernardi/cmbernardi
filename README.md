@@ -1,7 +1,6 @@
 ## Hi there! :relaxed: 👋
 I'm a Brazilian :brazil: living in the Netherlands :netherlands: who is passionate about Science and Technology.  
 :woman_technologist: Currently fully involved in Data Science!  
-:book: I also like writing technical blogs!  
 
 #### How it has been my learning path :arrow_down:
 :dna: Biotechnology --> :microscope:Bioengineering --> :bar_chart: Data Science  
